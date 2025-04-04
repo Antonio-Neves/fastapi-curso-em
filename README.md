@@ -1,4 +1,4 @@
-# curso-eduardo-mendes-fastapi
+# Curso de Fastapi do Eduardo Mendes 
 Curso no Youtube de Fastapi
 
 https://fastapidozero.dunossauro.com/Material em texto: 
