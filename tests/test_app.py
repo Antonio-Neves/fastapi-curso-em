@@ -1,10 +1,11 @@
-from http import HTTPStatus
-
 from fastapi.testclient import TestClient
 from fast_zero.app import app
+from fast_zero.schemas import Message
+
+from http import HTTPStatus
 
 
-# client = TestClient(app)
+client = TestClient(app)
 
 
 def test_root_must_return_ok_and_obrigado():
