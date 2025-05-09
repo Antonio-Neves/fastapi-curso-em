@@ -8,4 +8,5 @@
 .coverage
 htmlcov
 
-
+# Various
+__pycache__
